@@ -29,4 +29,4 @@ python catch_the_turtle.py
 Contributions to this project are welcome! If you have any suggestions, bug fixes, or enhancements, feel free to open an issue or create a pull request.
 
 # License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the LICENSE.md file for details.
