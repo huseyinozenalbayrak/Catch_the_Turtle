@@ -3,13 +3,13 @@
 Catch the Turtle is a simple game implemented in Python using the Turtle graphics library. The objective of the game is to catch the randomly moving turtle by clicking on it.
 
 # How to Play
-Clone the repository to your local machine:
+1 Clone the repository to your local machine:
 git clone https://github.com/huseyinozenalbayrak/Catch_the_Turtle.git
 
-Navigate to the project directory:
+2 Navigate to the project directory:
 cd Catch_the_Turtle
 
-Run the Python script:
+3 Run the Python script:
 python catch_the_turtle.py
 
 Click on the turtle as quickly as possible to catch it and earn points.
