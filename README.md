@@ -12,7 +12,7 @@ cd Catch_the_Turtle
 3. Run the Python script:
 python catch_the_turtle.py
 
-Click on the turtle as quickly as possible to catch it and earn points.
+4. Click on the turtle as quickly as possible to catch it and earn points.
 
 # Controls
 - Left-click: Catch the turtle
