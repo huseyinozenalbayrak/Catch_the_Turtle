@@ -1,4 +1,4 @@
-#Catch the Turtle
+# Catch the Turtle
 
 Catch the Turtle is a simple game implemented in Python using the Turtle graphics library. The objective of the game is to catch the randomly moving turtle by clicking on it.
 
