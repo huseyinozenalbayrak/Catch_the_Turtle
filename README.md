@@ -23,7 +23,7 @@ python catch_the_turtle.py
 - Score tracking to monitor your performance
 
 # Preview
-Game Preview
+<img width="1195" alt="catch_the_turtle" src="https://github.com/huseyinozenalbayrak/Catch_the_Turtle/assets/135959878/1a1aa1d4-dceb-4dec-a022-55c95c9642f9">
 
 # Contributions
 Contributions to this project are welcome! If you have any suggestions, bug fixes, or enhancements, feel free to open an issue or create a pull request.
